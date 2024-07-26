@@ -34,7 +34,7 @@ This repository contains Terraform scripts to set up an AWS infrastructure that 
 
 ```bash
 git clone https://github.com/Aditi698/sftp-to-s3-datalake.git
-cd sftp-to-s3-datalake
+cd aws-project
 ```
 
 2. Update Variables
